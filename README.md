@@ -4,10 +4,11 @@
 
 ## Hi there! I'm Nicolas Constante Guedert
     - ✍ Learning CyberSecurity and C++
-    - 👨‍🎓 Student of Computer Science in Federal University of Santa Catarina
+    - 👨‍🎓 Student of Computer Science at Federal University of Santa Catarina
     - 👨‍💻 Certified in Ethical Hacking Essentials (EHE) at EC-Council by Acadi-TI
     - 😄 Pronouns: He/His
 ##
+
 <div style="display: inline_block"><br>
   <img align="right" alt="Nicolas-Mario" height="200" width="200" src="https://media.giphy.com/media/10RgZyfaX0HBSg/giphy.gif">
 </div>
