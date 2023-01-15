@@ -31,7 +31,7 @@
   	<a href="https://twitter.com/constanteeeee" target="_blank"><img height="30" width="100" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   	<a href="https://www.linkedin.com/in/nicolas-constante-guedert-767432262/" target="_blank"><img height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   	<a href="https://t.me/nicolascguedert" target="_blank"><img height="30" width="100" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  	<a href="https://signal.group/#CjQKIKLVvMQVh9_HJa2RcdXW43t08xlexgWENr8cc56DRZBIEhBonaZ3NibL4skn4DmaA9sh" target="_blank"><img height="30" width="100" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" target="_blank"></a>
+  	<a href="https://signal.group/#CjQKIKLVvMQVh9_HJa2RcdXW43t08xlexgWENr8cc56DRZBIEhBonaZ3NibL4skn4DmaA9sh" target="_blank"><img height="30" width="90" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" target="_blank"></a>
 
  ![Snake animation](https://github.com/nicolascguedert/nicolascguedert/blob/output/github-contribution-grid-snake.svg)
 	
