@@ -13,8 +13,8 @@
   <img align="right" alt="Nicolas-Mario" height="200" width="200" src="https://media.giphy.com/media/10RgZyfaX0HBSg/giphy.gif">
 </div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nicolascguedert&show_icons=true&theme=codeSTACKr&icon_color=cc0000&title_color=cc0000&include_all_commits=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nicolascguedert&show_icons=true&theme=flag-india&icon_color=cc0000&title_color=cc0000&text_color=000000&include_all_commits=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nicolascguedert&count_private=true&show_icons=true&theme=codeSTACKr&icon_color=cc0000&title_color=cc0000&include_all_commits=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nicolascguedert&count_private=true&show_icons=true&theme=flag-india&icon_color=cc0000&title_color=cc0000&text_color=000000&include_all_commits=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <div style="display: inline_block"><br>
  	 <img align="center" alt="Nicolas-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
