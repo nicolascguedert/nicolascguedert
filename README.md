@@ -3,7 +3,7 @@
 </div> 
 
 ## Hi there! I'm Nicolas Constante Guedert
-    - ✍ Learning CyberSecurity and C++
+    - ✍ Learning CyberSecurity and Java
     - 👨‍🎓 Student of Computer Science at Federal University of Santa Catarina
     - 👨‍💻 Certified in Ethical Hacking Essentials (EHE) at EC-Council by Acadi-TI
     - 😄 Pronouns: He/His
